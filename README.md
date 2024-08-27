@@ -14,7 +14,7 @@ _NOTE: Because it is dealing with a MIDI data stream and not acting on the notes
 
 ## Installation
 
-[Download the newest .amxd file from the frozen/ directory](https://github.com/zsteinkamp/m4l-Quantize-MIDI/raw/main/frozen/) or clone this repository, and drag the `Quantize Midi.amxd` device into a track in Ableton Live.
+Download the newest .amxd file from the Changelog section below, or clone this repository and drag the `Quantize Midi.amxd` device into a track in Ableton Live.
 
 ## Changelog
 
