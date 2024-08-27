@@ -18,7 +18,7 @@ _NOTE: Because it is dealing with a MIDI data stream and not acting on the notes
 
 ## Changelog
 
-* 2024-08-26 [v1](https://github.com/zsteinkamp/m4l-Quantize-MIDI/raw/main/frozen/Quantize%20Midi%20v1.amxd) - Initial Release
+* 2024-08-26 [v1](https://github.com/zsteinkamp/m4l-Quantize-MIDI/raw/main/frozen/Quantize%20MIDI%20v1.amxd) - Initial Release
 
 ## TODO
 
