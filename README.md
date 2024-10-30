@@ -18,6 +18,7 @@ Download the newest .amxd file from the Changelog section below, or clone this r
 
 ## Changelog
 
+* 2024-10-29 [v2](https://github.com/zsteinkamp/m4l-Quantize-MIDI/releases/download/v2/QuantizeMIDI-v2.amxd) - Add non-blocking telemetry ping on load. Does not send any identifying information, only the plugin name, the local computer name, type of computer, and CPU type. I just want to see which plugins are used the most.
 * 2024-08-26 [v1](https://github.com/zsteinkamp/m4l-Quantize-MIDI/raw/main/frozen/Quantize%20MIDI%20v1.amxd) - Initial Release
 
 ## TODO
